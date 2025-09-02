@@ -13,7 +13,6 @@ Obtained a Doctor of Engineering degree from the Institute of Semiconductors, Ch
 • My research focuses on the principles of 3D LiDAR imaging, obstacle detection algorithms, and multi-sensor fusion technology.  
 
 **Xi’an Institute of Electromechanical Information Technology**, LiDAR Algorithm Engineer (2025.08 – )  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
 laser imaging, LiDAR, point cloud algorithm, obstacle detection.
