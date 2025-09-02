@@ -1,20 +1,19 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+Obtained a Doctor of Engineering degree from the Institute of Semiconductors, Chinese Academy of Sciences in June 2025, and currently serves as a LiDAR Engineer at Xi'an Institute of Electromechanical Information Technology.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>nanzongliang20@mails.ucas.ac.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Jiangsu University**, Master of Material Science and Engineering (2016.09 – 2020.06)  
+• GPA: 3.91/4.0 (top 5%)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**University of Chinese Academy of Sciences**, Ph.D. candidate (2020.09 – 2025.06)  <br>  
+• My research focuses on the principles of 3D LiDAR imaging, obstacle detection algorithms, and multi-sensor fusion technology.  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
+**Xi’an Institute of Electromechanical Information Technology**, LiDAR Algorithm Engineer (2025.08 – )  
 • GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+laser imaging, LiDAR, point cloud algorithm, obstacle detection.

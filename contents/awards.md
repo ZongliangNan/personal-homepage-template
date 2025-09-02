@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- Academic Scholarship, 2020-2025.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- Merit Student of the Institute of Semiconductors, Chinese Academy of Sciences, 2023. 
